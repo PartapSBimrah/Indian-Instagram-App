@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="60dp"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="10dp"
+    android:layout_marginLeft="10dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:civ_border_width="2dp"
+        android:src="@drawable/placeholder"
+        app:civ_border_color="#00000000"
+        android:foreground="@drawable/story_border"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:visibility="gone"
+        android:id="@+id/storyImage_civ"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:civ_border_width="2dp"
+        android:src="@drawable/placeholder"
+        android:layout_gravity="center"
+        app:civ_border_color="#afafaf"
+        android:layout_marginTop="5dp"
+        android:visibility="gone"
+        android:id="@+id/storyImage_seen_civ"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/storyUsername_tv"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:ellipsize="end"
+        android:maxLines="1"/>
+
+</LinearLayout>

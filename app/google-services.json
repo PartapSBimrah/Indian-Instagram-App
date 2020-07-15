@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297475123495",
+    "firebase_url": "https://likwiki-7527f.firebaseio.com",
+    "project_id": "likwiki-7527f",
+    "storage_bucket": "likwiki-7527f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297475123495:android:8cfbcf92cab9f741462102",
+        "android_client_info": {
+          "package_name": "com.royalbimrah.likwik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297475123495-9uuuun0gatmp8sdcquhg75orfmhp83te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPRs3CCQNc4p_Nzx_DQRT2G5rm8GlK8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297475123495-9uuuun0gatmp8sdcquhg75orfmhp83te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
