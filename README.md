@@ -9,7 +9,7 @@ Just a social app. This app is mostly completed but some bugs would be there.
 * Registration
   - Registration and logging in using firebase **(stable)**
 * Flash Messages
-  - Instant messaging using notifications using firebase functions **(stable)**
+  - Instant messaging using notifications using firebase functions **(will be soon)**
 * Make new friends
   - Friend request and accepted notifications **(stable)**
   - Manage friends **(stable)**
@@ -19,13 +19,13 @@ Just a social app. This app is mostly completed but some bugs would be there.
   - View posts of your friends **(stable)**
   - Like, Share, Comment **(stable)**
 * Miscellaneous
-  - Double tap like a feature added **(stable)**
-  - Error handling Recycler View **(stable)**
+  - Double tap like a feature added **(will be added soon)**
 * Discuss
-  - Forum **(stable)**
+  - Forum **(Soon)**
 * Discover
-  - Categorized News **(stable)**
-
+  - Categorized News **(added soon)**
+* Stories
+  - A user can share stories like Instagram **(stable)**
 
 ## Notes
 I will change the UI later. Now its quite similar to Instagram. I will make it differ and it just design for Indian Army. I need a couple of days to present a new and fresh UI ahead you. 
