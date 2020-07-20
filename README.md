@@ -25,3 +25,7 @@ Just a social app. This app is mostly completed but some bugs would be there.
   - Forum **(stable)**
 * Discover
   - Categorized News **(stable)**
+
+
+<p style="color:red;"> Notes</p>
+I will change the UI later. Now its quite similar to Instagram. I will make it differ and it just design for Indian Army. I need a couple of days to present a new and fresh UI ahead you. 
